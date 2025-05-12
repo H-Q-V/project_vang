@@ -1,0 +1,42 @@
+export const upcomingExams = [
+  {
+    id: 1,
+    title: "Phân tích và thiết kế mạng máy tính",
+    date: "Saturday, 8 March",
+    timeStart: "07:55",
+    timeEnd: "09:35",
+    status: "upcoming",
+  },
+  {
+    id: 2,
+    title: "Lập trình Web Frontend",
+    date: "Monday, 10 March",
+    timeStart: "09:00",
+    timeEnd: "10:30",
+    status: "upcoming",
+  },
+  {
+    id: 3,
+    title: "Cơ sở dữ liệu phân tán",
+    date: "Wednesday, 12 March",
+    timeStart: "13:30",
+    timeEnd: "15:00",
+    status: "upcoming",
+  },
+  {
+    id: 4,
+    title: "An toàn và bảo mật thông tin",
+    date: "Friday, 14 March",
+    timeStart: "15:15",
+    timeEnd: "16:45",
+    status: "upcoming",
+  },
+  {
+    id: 5,
+    title: "Trí tuệ nhân tạo",
+    date: "Monday, 17 March",
+    timeStart: "08:00",
+    timeEnd: "09:30",
+    status: "upcoming",
+  },
+];
